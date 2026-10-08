@@ -7,11 +7,11 @@ Lo hice con React, Vite y Tailwind CSS.
 
 Hecho por Hanna Gabriela Castaño Beltrán.
 
-Puedes verlo aquí: []
+Puedes verlo aquí: [https://laboratorio-cat-logo-interactivo-de.vercel.app/]
 
 ## Cómo abrirlo en tu computador
 
-1. Descarga el proyecto: git clone []
+1. Descarga el proyecto: git clone [https://github.com/gabycastb-prog/Laboratorio-Cat-logo-interactivo-de-pel-culas.git]
 2. Entra a la carpeta:cd catalogo-peliculas
 3. Instala lo necesario:npm install
 4. Ábrelo:npm run dev
